@@ -1,0 +1,4 @@
+[
+    {"id": "file-1", "payload": 42},
+    {"id": "file-2", "payload": 78}
+]
